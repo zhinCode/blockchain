@@ -1,4 +1,4 @@
-# zhinCoin (Blockchain)
+# blockchain (zhinCoin)
 
 project for blockchain technology.
 
@@ -18,8 +18,8 @@ project for blockchain technology.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/zhinCode/zhinCoin.git
-    cd zhinCoin
+    git clone https://github.com/zhinCode/blockchain.git
+    cd blockchain
     ```
 
 2. Install dependencies:
